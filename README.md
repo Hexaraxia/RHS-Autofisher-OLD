@@ -2,6 +2,7 @@
 
 # [DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases/tag/1.0) 
 ### An AutoHotkey script that clicks twice when it detects a sound.
+Yes. the README has changed a bit from the video.
 
 # TEXT TUTORIAL
 ## .EXE
@@ -19,7 +20,8 @@
     - Press F1 to start the script and cast your line
     - Press F2 to stop the script at any time
 # VIDEO TUTORIAL
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwFtkvmuDjA?si=k3bcWvLhTVCtiMvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# [<img src="https://github.com/user-attachments/assets/763d4f59-7700-47b6-9568-0ef480048b00">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
+
 # Credit:
 
  ["TAB Nation -  Automation"](https://www.youtube.com/watch?v=KxQELIyQTMk) - THE ORIGINAL CREATOR OF THE SCRIPT
