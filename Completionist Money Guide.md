@@ -2,8 +2,9 @@
 
 170100 + 76655 + 108200
 
-354955 <----------
-for every ITEM in the game (excluding furniture)
+# 354955 <----------
+# COST FOR EVERYTHING
+(excluding furniture)
 
 -------------------------
 
@@ -17,8 +18,8 @@ for every ITEM in the game (excluding furniture)
 4500 + 9500 + 500 + 1500 + 
 750 + 100 + 400 + 4200
 
-170100 <----------
-for every GEAR in the game
+## 170100 <----------
+## COST FOR EVERY GEAR
 
 -------------------------
 
@@ -28,8 +29,8 @@ for every GEAR in the game
 1500 + 1250 + 1950 + 4200 + 
 15000 + 50000
 
-76655 <----------
-for every PET in the game
+## 76655 <----------
+## COST FOR EVERY PET
 
 -------------------------
 
@@ -37,7 +38,7 @@ for every PET in the game
 1600 + 1950 + 2100 + 3750 + 7200 + 
 12500 + 31000 + 45000
 
-108200 <----------
-for every CAR in the game
+## 108200 <----------
+## COST FOR EVERY CAR
 
 -------------------------
