@@ -19,6 +19,7 @@ Yes. the README has changed a bit from the video.
     - Go to the fishing lake
     - Press F1 to start the script and cast your line
     - Press F2 to stop the script at any time
+[AutoHotkey](https://www.autohotkey.com/)
 # VIDEO TUTORIAL
 # [<img src="https://github.com/user-attachments/assets/763d4f59-7700-47b6-9568-0ef480048b00">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
 
