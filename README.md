@@ -1,17 +1,27 @@
-[<img src="https://github.com/user-attachments/assets/3e564c2c-85af-42cf-99b2-98b82c4d1a0f">](https://www.youtube.com/watch?v=q_D44PAEWBU)
+# [<img src="https://github.com/user-attachments/assets/3e564c2c-85af-42cf-99b2-98b82c4d1a0f">](https://www.youtube.com/watch?v=q_D44PAEWBU)
 
-[DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases/tag/1.0) 
+# [DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases/tag/1.0) 
+### An AutoHotkey script that clicks twice when it detects a sound.
 
-An AutoHotKey script that clicks twice when it detects a sound over (Insert volume you've entered)
+# TEXT TUTORIAL
+## .EXE
+    - Download and install "RHS Autofisher.exe" from the releases page
+    - Run the file
+    - Input a max volume the script should listen for. 0.01 is recommended
+    - Go to the fishing lake
+    - Press F1 to start the script and cast your line
+    - Press F2 to stop the script at any time
+## .AHK
+    - Go to the "AutoHotkey" link bellow and download v1.1
+    - Download and install "RHS Autofisher.ahk" from the releases page
+    - Input a max volume the script should listen for. 0.01 is recommended
+    - Go to the fishing lake
+    - Press F1 to start the script and cast your line
+    - Press F2 to stop the script at any time
+# Credit:
 
-Credit:
+ ["TAB Nation -  Automation"](https://www.youtube.com/watch?v=KxQELIyQTMk) - THE ORIGINAL CREATOR OF THE SCRIPT
 
-"TAB Nation -  Automation" - THE ORIGINAL CREATOR OF THE SCRIPT
+ ["Lexikos"](https://www.autohotkey.com/board/topic/21984-vista-audio-control-functions/) - Creator of Vista Audio Control Functions:
 
-"Lexikos" - Creator of Vista Audio Control Functions:
-
-https://www.autohotkey.com/board/topic/21984-vista-audio-control-functions/
-
-AutoHotkey:
-
-https://www.autohotkey.com/
+ [AutoHotkey](https://www.autohotkey.com/)
