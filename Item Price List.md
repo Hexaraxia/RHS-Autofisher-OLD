@@ -139,3 +139,35 @@ Sparkle Time Sports Car V2: $31000
 
 Frostrider Ultimate: $45000
 -------------------------
+# Car Paints
+
+Orange: Free
+
+Red: Free
+
+Blue: Free
+
+Black: Free
+
+White: Free
+
+Festive Green: Free
+
+Purple: $50
+
+Navy Blue: $50
+
+Camo Green: $50
+
+Pastel Blue: $50
+
+Pink: $50
+
+Silver: $80
+
+Glossy Black: $80
+
+Glass: $80
+
+Gold: $25000
+-------------------------
