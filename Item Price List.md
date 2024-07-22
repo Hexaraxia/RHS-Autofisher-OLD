@@ -1,5 +1,6 @@
 -------------------------
 # Gears
+
 Summer Skate: $100
 Sparkler: $100
 Gravity Coil: $150
@@ -38,6 +39,7 @@ Personal Rocketship: $32000
 UFO: $45000
 -------------------------
 # Pets
+
 Doge: $75
 Pink Unicorn: $90
 Festive Kitty: $115
@@ -58,6 +60,7 @@ Black Dragon: $15000
 The Golden ROBLOXian: $50000
 -------------------------
 # Cars
+
 RHS Fan Car: Free*
 Rustbucket: Free
 Modern Car: $550
