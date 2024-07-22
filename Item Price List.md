@@ -1,4 +1,16 @@
 -------------------------
+# Most Expensive
+
+UFO: $45000 (Gear)
+
+The Golden ROBLOXian: $50000 (Pet)
+
+Frostrider Ultimate: $45000 (Car)
+
+Gold: $25000 (Paint)
+
+Total: $165,000
+-------------------------
 # Gears
 
 Summer Skate: $100
@@ -139,7 +151,7 @@ Sparkle Time Sports Car V2: $31000
 
 Frostrider Ultimate: $45000
 -------------------------
-# Car Paints
+# Paints
 
 Orange: Free
 
