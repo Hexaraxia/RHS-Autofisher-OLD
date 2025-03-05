@@ -1,3 +1,5 @@
+# NOTE, THIS SCRIPT HAS MOVED TO https://github.com/Hexaraxia/RHS-Autofisher
+
 # [<img src="https://github.com/user-attachments/assets/3e564c2c-85af-42cf-99b2-98b82c4d1a0f">](https://www.youtube.com/watch?v=q_D44PAEWBU)
 
 # [DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases/tag/1.0) 
